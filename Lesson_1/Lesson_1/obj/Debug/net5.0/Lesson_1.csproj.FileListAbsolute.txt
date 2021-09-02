@@ -1,0 +1,16 @@
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.exe
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.deps.json
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.runtimeconfig.json
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.runtimeconfig.dev.json
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.dll
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\ref\Lesson_1.dll
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\bin\Debug\net5.0\Lesson_1.pdb
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.AssemblyInfo.cs
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.dll
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\ref\Lesson_1.dll
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.pdb
+C:\Users\Дмитрий Тихомиров\Desktop\Lesson_1\Lesson_1\obj\Debug\net5.0\Lesson_1.genruntimeconfig.cache
